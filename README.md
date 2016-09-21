@@ -1,0 +1,1 @@
+FoodTracker is a rather simple Swift iOS App I built in 1.5 hours at an iOS Developer Tech Meetup in Orlando, FL. The app allows you to store the location (using built-in GPS) of a foodtruck and attach an image of it to a live-feed so that others can also keep track of it. 
